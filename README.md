@@ -24,8 +24,8 @@ This capstone project was developed for TechWorkz 3D Printing Services to stream
 - Apache Web Server
 
 ## Documentation
-- Capstone Project PDF
-- User's Manual PDF
+- [Capstone Project PDF](./Samuel-Aziz-Web-Based%203D%20Printing%20Services-APPROVED08182025.pdf)
+- [User's Manual PDF](./Abdulaziz%20N.%20Fitwi_Samuel%20C.%20Ogu-User's%20Manual.pdf)
 
 ## Authors
 - Samuel C. Ogu
